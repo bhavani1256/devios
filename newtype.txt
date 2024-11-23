@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>details</title>
+</head>
+<body>
+
+
+
+<img src="C:\Users\bhava\OneDrive\Pictures\Camera Roll\226P1A05C4[42].jpg"height=100 width=100>
+<hl>NAME:P.Bhavani</hl>
+<hl><pre>Address:
+Kukatpally,Hyderabad-500043
+</pre></hl>
+<hl>Educational Details</hl>
+
+
+
+<table border=1>
+	<tr>
+<th>Course</th>
+<th>Name of the Institutation</th>
+		<th>Year of pass</th>
+	<th>Percentage</th>
+	<\tr>
+	<tr>
+<td>B.Tech(CSE)</td>
+<td>rishi m.s institutation of engineering and technology for women</td>
+<td>2026</td>
+<td>77%</td>
+</td>
+<<tr>
+<<td>Intermediate</td>
+<td>sri surya</td>
+<td>2022,</td>
+<td>66%</td>
+</tr>
+<td>SSC</td>
+<td>govt high school</td>
+<td>90%</td>
+</tr>
+</table>
+<hl>TECHNICAL SKILL:</hl>
+<ultype=dise>
+<li>Programming Languages:C,JAVA</li>
+<li>OperatingSystems     :Windows</li>
+<li>DatabaseSystem       :Oracle</li>
+<li>Web Technologies     </body>
+</ul>				 </html>
+:HTML</li>	
